@@ -24,12 +24,13 @@
   "homepage": "https://github.com/wyvernnot/violet2png",
   "devDependencies": {
     "chai": "^2.2.0",
+    "istanbul": "^0.3.11",
     "mocha": "^2.2.1"
   },
-  "files":[
-      "index.js",
-      "LICENSE",
-      "History.md",
-      "README.md"
+  "files": [
+    "index.js",
+    "LICENSE",
+    "History.md",
+    "README.md"
   ]
 }
