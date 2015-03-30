@@ -1,0 +1,28 @@
+{
+  "name": "violet2png",
+  "version": "1.0.0",
+  "description": "Extract png from *.violet.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "test-ci": "istanbul cover node_modules/mocha/bin/_mocha --report html -- --reporter dot test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyvernnot/violet2png"
+  },
+  "keywords": [
+    "violet",
+    "UML"
+  ],
+  "author": "wyvernnot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvernnot/violet2png/issues"
+  },
+  "homepage": "https://github.com/wyvernnot/violet2png",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  }
+}
