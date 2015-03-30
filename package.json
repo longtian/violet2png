@@ -1,6 +1,6 @@
 {
   "name": "violet2png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extract png from *.violet.html",
   "main": "index.js",
   "scripts": {
